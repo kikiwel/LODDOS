@@ -1,3 +1,3 @@
 # LODDOS
 DDOS attacker
-english lang in progress!
+english lang in progress! \n
